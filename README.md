@@ -71,6 +71,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Morpho](https://morpho.org/) - Decentralized lending and borrowing.
 - [Lighter](https://lighter.xyz/) - Perpetuals DEX.
 - [Rialto](https://robinhood.com/us/en/chain/ecosystem/) - PropAMM-driven spot exchange.
+- [DEX Ranks](https://dexranks.com) - Paid token leaderboard. Highest whole-dollar USD bid sits on top. `$RANKS` burns on chain 4663.
 - USDG (Paxos) and USDe (Ethena) stablecoins circulate on-chain.
 
 ## Infrastructure
