@@ -49,6 +49,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [growthepie](https://www.growthepie.com/chains/robinhood) - Transactions, active addresses, and chain fundamentals.
 - [RWA.xyz](https://app.rwa.xyz/stocks) - Tokenized-stock asset class tracking across chains.
 - [Dune](https://dune.com/blockchains/robinhood) - Official Dune integration; community dashboards for chain activity.
+- [Trust Me Capital](https://capital.devfridge.cool/) - Live TMC token analytics and Trust Rewards time-lock membership with non-transferable points; contracts and risk disclosures are published for verification.
 
 ## Monitoring & Verification
 
