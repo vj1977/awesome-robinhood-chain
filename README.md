@@ -104,6 +104,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Arbitrum: Robinhood Chain mainnet](https://blog.arbitrum.io/robinhood-chain-mainnet/) - Technology-stack announcement.
 - [Chainlink partnership](https://www.prnewswire.com/news-releases/robinhood-chain-launches-and-adopts-chainlink-to-unlock-access-to-the-onchain-economy-for-millions-of-users-302816242.html) - Official oracle adoption.
 - [Dune: Robinhood Chain is live on Dune](https://dune.com/blog/robinhood-chain-is-live-on-dune) - Data-platform integration.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
