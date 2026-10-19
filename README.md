@@ -56,6 +56,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Contract verifier](https://chain4663.com/verify) - Check whether an address is in the currently accepted canonical registry (anti-impersonation).
 - [Chain status center](https://chain4663.com/service) - Independent availability and component-health tracking with incident history.
 - [Corporate-actions calendar](https://chain4663.com/calendar) - Scheduled and applied multiplier events, with iCal subscription.
+- [Launch Watch](https://invisiblemonsters.github.io/launch-watch/) - Automated, evidence-linked free risk scores for new token launches on Robinhood Chain and Base, with JSON/Atom feeds; open-source scanner at [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan).
 
 ## Stock Tokens
 
