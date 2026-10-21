@@ -71,6 +71,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Morpho](https://morpho.org/) - Decentralized lending and borrowing.
 - [Lighter](https://lighter.xyz/) - Perpetuals DEX.
 - [Rialto](https://robinhood.com/us/en/chain/ecosystem/) - PropAMM-driven spot exchange.
+- [QuantumPools](https://quantumpools.io) - Self-withdrawable managed Uniswap V3 LP vaults; each depositor keeps their own position NFT. Vaults: V2 `0x5433f385F538Fa11b8A25B82230a306d25dF8EB3`, V2.1 `0xd3AAb853758c81c09C4510D1b05b9152F71B30F5` ([DefiLlama](https://defillama.com/protocol/quantum-pools)).
 - USDG (Paxos) and USDe (Ethena) stablecoins circulate on-chain.
 
 ## Infrastructure
