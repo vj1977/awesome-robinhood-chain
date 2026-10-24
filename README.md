@@ -15,6 +15,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Monitoring & Verification](#monitoring--verification)
 - [Stock Tokens](#stock-tokens)
 - [DeFi on Robinhood Chain](#defi-on-robinhood-chain)
+- [Collectibles](#collectibles)
 - [Infrastructure](#infrastructure)
 - [Developer Guides](#developer-guides)
 - [Machine-Readable Data](#machine-readable-data)
@@ -72,6 +73,10 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Lighter](https://lighter.xyz/) - Perpetuals DEX.
 - [Rialto](https://robinhood.com/us/en/chain/ecosystem/) - PropAMM-driven spot exchange.
 - USDG (Paxos) and USDe (Ethena) stablecoins circulate on-chain.
+
+## Collectibles
+
+- [Stockmon](https://www.stockmon.app/genesis) — Creature collections with Genesis originals and Aetheryn descendants on Robinhood Chain.
 
 ## Infrastructure
 
