@@ -44,6 +44,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 
 ## Data & Analytics
 
+- [Envio](https://envio.dev/chains/robinhood) - Envio builds custom blockchain APIs and analytics, including on Robinhood Chain. HyperIndex turns contract events into a GraphQL API, HyperSync serves full history and real-time data without an archive node, and HyperRPC handles high-volume reads.
 - [L2Beat](https://l2beat.com/scaling/projects/robinhood) - Risk analysis, stage assessment, and total value secured.
 - [DeFiLlama](https://defillama.com/chain/robinhood-chain) - TVL, stablecoins, DEX volume, and fees.
 - [growthepie](https://www.growthepie.com/chains/robinhood) - Transactions, active addresses, and chain fundamentals.
