@@ -67,6 +67,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 
 ## DeFi on Robinhood Chain
 
+- [Stoa](https://stoadex.com/) - Open-source swap router comparing Uniswap V2/V3/V4, Aero, Ramses and Pons curves for each trade, with a free token safety check and limit orders.
 - [Uniswap](https://uniswap.org/) - Public DEX deployment.
 - [Morpho](https://morpho.org/) - Decentralized lending and borrowing.
 - [Lighter](https://lighter.xyz/) - Perpetuals DEX.
